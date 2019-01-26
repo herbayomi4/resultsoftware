@@ -1,0 +1,2 @@
+AuthName "Source Codes"
+AuthUserFile "/home/racohabl/.htpasswds/public_html/passwd"
